@@ -1,0 +1,2 @@
+# NotWatchVtubers
+私が、vtuberの切り抜きを見すぎ、時間を無駄にしているため、vtuberの動画を閲覧したらブラウザを強制的に終了するchrome拡張です（未完成）
